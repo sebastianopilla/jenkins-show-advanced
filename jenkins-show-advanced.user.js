@@ -19,8 +19,6 @@
 // @description Automatically shows the configuration hidden beneath the "Advanced..." buttons in Jenkins jobs
 // @match       https://*/jenkins/*
 // @match       http://*/jenkins/*
-// @match       https://jenkins.*/*
-// @match       http://jenkins.*/*
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
 // @run-at      document-end
 // @version     1.0
