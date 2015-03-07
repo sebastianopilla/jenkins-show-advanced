@@ -17,8 +17,7 @@
 // @name        Jenkins Show Advanced
 // @namespace   http://opsfordevelopers.com/jenkins/userscripts
 // @description Automatically shows the configuration hidden beneath the "Advanced..." buttons in Jenkins jobs
-// @match       https://*/jenkins/*
-// @match       http://*/jenkins/*
+// @match       */job/*/configure
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
 // @run-at      document-end
 // @version     1.0
