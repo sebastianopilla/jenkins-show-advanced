@@ -9,7 +9,7 @@ Before
 
 After
 ---
-<img width="650" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-before.png">
+<img width="650" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-after.png">
 
 Installation
 ---
