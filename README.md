@@ -1,15 +1,15 @@
 Jenkins Show Advanced
 ===
 
-Jenkins Show Advanced is a Greasemonkey user script that improves Jenkins's job configuration pages by always showing the configuration hidden beneath the "Advanced..."" buttons.
+Jenkins Show Advanced is a Greasemonkey user script that improves Jenkins's job configuration pages by always showing the configuration hidden beneath the "Advanced..." buttons.
 
 Before
 ---
-<img width="320" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-before.png">
+<img width="650" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-before.png">
 
 After
 ---
-<img width="320" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-before.png">
+<img width="650" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-before.png">
 
 Installation
 ---
