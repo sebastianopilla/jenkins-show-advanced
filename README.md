@@ -5,11 +5,11 @@ Jenkins Show Advanced is a Greasemonkey user script that improves Jenkins's job 
 
 Before
 ---
-<img width="650" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-before.png">
+<img width="800" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-before.png">
 
 After
 ---
-<img width="650" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-after.png">
+<img width="800" src="https://raw.githubusercontent.com/opsfordevelopers/jenkins-show-advanced/master/resources/jenkins-after.png">
 
 Installation
 ---
